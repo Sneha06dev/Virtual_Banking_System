@@ -37,26 +37,25 @@ The **Virtual Banking System** is a user-friendly banking simulation developed u
 ## Screenshots
 
 ### Login/Signup Interface
-![Login Signup Interface]![Screenshot 2024-11-15 045339](https://github.com/user-attachments/assets/f3c5cdf9-bd40-4847-8bf6-aa3914fa7c37)
+![Screenshot 2024-11-15 045339](https://github.com/user-attachments/assets/f3c5cdf9-bd40-4847-8bf6-aa3914fa7c37)
 
 
 ### Application Forms
 #### 1. Personal Details
-![Personal Details Form]![Screenshot 2024-11-15 045356](https://github.com/user-attachments/assets/1303efa2-fb98-4039-8712-3fe12c64ac45)
+![Screenshot 2024-11-15 045356](https://github.com/user-attachments/assets/1303efa2-fb98-4039-8712-3fe12c64ac45)
 
 #### 2. Additional Details
-![Banking Preferences Form]![Screenshot 2024-11-15 045356](https://github.com/user-attachments/assets/1303efa2-fb98-4039-8712-3fe12c64ac45)orm)
+![Screenshot 2024-11-15 045356](https://github.com/user-attachments/assets/1303efa2-fb98-4039-8712-3fe12c64ac45)orm)
 
 #### 3. Account Details
-![Verification Details Form]![Screenshot 2024-11-15 045441](https://github.com/user-attachments/assets/cf5a2d96-62c5-4261-8230-a9cfa5aff7bb)
+![Screenshot 2024-11-15 045441](https://github.com/user-attachments/assets/cf5a2d96-62c5-4261-8230-a9cfa5aff7bb)
 
 ### Virtual ATM Interface
-![Virtual ATM Interface]![Screenshot 2024-11-15 045602](https://github.com/user-attachments/assets/b550848b-a17d-4e86-9274-79d3434b9135)
+![Screenshot 2024-11-15 045602](https://github.com/user-attachments/assets/b550848b-a17d-4e86-9274-79d3434b9135)
 
 
 ### Transaction History
-![Transaction History Interface]![Screenshot 2024-11-15 045441](https://github.com/user-attachments/assets/cf5a2d96-62c5-4261-8230-a9cfa5aff7bb)
-
+![Screenshot 2024-11-15 045635](https://github.com/user-attachments/assets/0269983c-a7a7-4400-9d10-0baad2dac961)
 ---
 
 ## Project Workflow
